@@ -13,7 +13,7 @@ The repository is organized by topic complexity, starting from basic syntax to a
 | # | Exercise / Project | Focus Concept | Status |
 | :--- | :--- | :--- | :---: |
 | **01** | **Variables & Data Output** | `Console`, `Variables`, `Data Types` | ✅ |
-| **02** | **Basic Arithmetic** | `Operators`, `Math`, `Logic` |  |
+| **02** | **Basic Arithmetic** | `Operators`, `Math`, `Logic` |✅ |
 | **03** | **User Interaction** | `Input/Output`, `Prompting` |  |
 | **04** | **Control Flow (If/Else)** | `Conditionals`, `Boolean Logic` |  |
 | **05** | **Loops & Iteration** | `For/While Loops`, `DRY Principle` |  |
